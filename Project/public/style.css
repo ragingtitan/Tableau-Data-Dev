@@ -1,0 +1,14 @@
+.profile-pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+.profile-pic img{
+    height: 300px;
+    overflow: hidden;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 20px;
+}
